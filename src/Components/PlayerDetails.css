@@ -1,0 +1,11 @@
+
+.playerDetailsContainer{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .playerDetails{
+    
+    width: 75%;
+    padding: 20px 10px;
+  }
